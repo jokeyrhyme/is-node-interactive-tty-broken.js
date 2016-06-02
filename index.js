@@ -21,4 +21,7 @@ function isFixed (version, platform) {
   return true
 }
 
-module.exports = { isBroken, isFixed }
+module.exports = {
+  isBroken: isBroken,
+  isFixed: isFixed
+}

@@ -1,0 +1,24 @@
+{
+  "name": "is-node-interactive-tty-broken",
+  "version": "1.0.0",
+  "description": "does my Node.js suffer from https://github.com/nodejs/node/issues/5384 ?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jokeyrhyme/is-node-interactive-tty-broken.git"
+  },
+  "keywords": [
+    "interactive", "tty",
+    "bug", "broken", "fixed", "windows", "5384",
+    "check", "detect", "semver", "test"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jokeyrhyme/is-node-interactive-tty-broken/issues"
+  },
+  "homepage": "https://github.com/jokeyrhyme/is-node-interactive-tty-broken#readme"
+}

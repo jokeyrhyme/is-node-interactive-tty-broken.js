@@ -1,7 +1,7 @@
-const satisfies = require('semver').satisfies
+var satisfies = require('semver').satisfies
 
-const BROKEN = '>=4 <4.2 || >=5 <5.3 || >=5.6 <6.2'
-const FIXED = '<4 || >=4.2 <5 || >=5.3 <5.6 || >= 6.2'
+var BROKEN = '>=4 <4.2 || >=5 <5.3 || >=5.6 <6.2'
+var FIXED = '<4 || >=4.2 <5 || >=5.3 <5.6 || >= 6.2'
 
 function isWindows (platform) {
   return (platform || process.platform).indexOf('win') === 0

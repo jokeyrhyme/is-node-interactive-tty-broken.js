@@ -1,8 +1,8 @@
-const assert = require('assert')
+var assert = require('assert')
 
-const lib = require('../index.js')
-const isBroken = lib.isBroken
-const isFixed = lib.isFixed
+var lib = require('../index.js')
+var isBroken = lib.isBroken
+var isFixed = lib.isFixed
 
 assert.equal(typeof isBroken(), 'boolean')
 assert.equal(typeof isFixed(), 'boolean')

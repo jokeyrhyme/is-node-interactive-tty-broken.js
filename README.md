@@ -1,4 +1,4 @@
-# is-node-interactive-tty-broken
+# is-node-interactive-tty-broken [![Travis CI Status](https://travis-ci.org/jokeyrhyme/is-node-interactive-tty-broken.js.svg?branch=master)](https://travis-ci.org/jokeyrhyme/is-node-interactive-tty-broken.js)
 
 does my Node.js suffer from https://github.com/nodejs/node/issues/5384 ?
 

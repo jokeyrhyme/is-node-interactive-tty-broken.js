@@ -7,7 +7,7 @@
     "url": "https://github.com/jokeyrhyme/is-node-interactive-tty-broken/issues"
   },
   "dependencies": {
-    "semver": "^5.1.0"
+    "semver": "^5.5.0"
   },
   "devDependencies": {
     "eslint": "^3.12.2",

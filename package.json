@@ -16,7 +16,7 @@
     "eslint-plugin-node": "^4.2.2",
     "eslint-plugin-promise": "^3.4.0",
     "eslint-plugin-standard": "^3.0.0",
-    "fixpack": "^2.3.1",
+    "fixpack": "^3.0.5",
     "if-node-version": "^1.1.1"
   },
   "directories": {
